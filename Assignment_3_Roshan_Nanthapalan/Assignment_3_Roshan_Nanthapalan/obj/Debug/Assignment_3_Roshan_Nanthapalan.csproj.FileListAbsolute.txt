@@ -1,0 +1,13 @@
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 3\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\bin\Debug\Assignment_3_Roshan_Nanthapalan.exe.config
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 3\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\obj\Debug\Assignment_3_Roshan_Nanthapalan.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 3\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\bin\Debug\Assignment_3_Roshan_Nanthapalan.exe
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 3\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\bin\Debug\Assignment_3_Roshan_Nanthapalan.pdb
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 3\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\obj\Debug\Assignment_3_Roshan_Nanthapalan.exe
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 3\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\obj\Debug\Assignment_3_Roshan_Nanthapalan.pdb
+C:\Users\rosha\Documents\HS Programming\Grade 11 Programming\Unit 3 Stacks Assignment\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\bin\Debug\Assignment_3_Roshan_Nanthapalan.exe.config
+C:\Users\rosha\Documents\HS Programming\Grade 11 Programming\Unit 3 Stacks Assignment\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\bin\Debug\Assignment_3_Roshan_Nanthapalan.exe
+C:\Users\rosha\Documents\HS Programming\Grade 11 Programming\Unit 3 Stacks Assignment\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\bin\Debug\Assignment_3_Roshan_Nanthapalan.pdb
+C:\Users\rosha\Documents\HS Programming\Grade 11 Programming\Unit 3 Stacks Assignment\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\obj\Debug\Assignment_3_Roshan_Nanthapalan.csproj.AssemblyReference.cache
+C:\Users\rosha\Documents\HS Programming\Grade 11 Programming\Unit 3 Stacks Assignment\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\obj\Debug\Assignment_3_Roshan_Nanthapalan.csproj.CoreCompileInputs.cache
+C:\Users\rosha\Documents\HS Programming\Grade 11 Programming\Unit 3 Stacks Assignment\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\obj\Debug\Assignment_3_Roshan_Nanthapalan.exe
+C:\Users\rosha\Documents\HS Programming\Grade 11 Programming\Unit 3 Stacks Assignment\Assignment_3_Roshan_Nanthapalan\Assignment_3_Roshan_Nanthapalan\obj\Debug\Assignment_3_Roshan_Nanthapalan.pdb
